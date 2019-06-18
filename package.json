@@ -23,5 +23,14 @@
   "bugs": {
     "url": "https://github.com/Sam-Lane/Shell-Search/issues"
   },
-  "homepage": "https://github.com/Sam-Lane/Shell-Search#readme"
+  "homepage": "https://github.com/Sam-Lane/Shell-Search#readme",
+  "bin": {
+    "search": "bin/shell-search.js"
+  },
+  "dependencies": {
+    "open": "^6.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
 }
