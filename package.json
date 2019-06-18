@@ -1,0 +1,27 @@
+{
+  "name": "shell-search",
+  "version": "0.0.1",
+  "description": "🐢 Quickly search google and open your browser window from the command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sam-Lane/Shell-Search.git"
+  },
+  "keywords": [
+    "search",
+    "shell",
+    "commandline",
+    "google",
+    "terminal",
+    "cmd"
+  ],
+  "author": "Sam Lane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sam-Lane/Shell-Search/issues"
+  },
+  "homepage": "https://github.com/Sam-Lane/Shell-Search#readme"
+}
